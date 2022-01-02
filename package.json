@@ -1,0 +1,26 @@
+{
+  "name": "ldlc-autobuy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "ldlc",
+    "buy",
+    "bot",
+    "auto",
+    "autobuy"
+  ],
+  "author": "Mathieu Colmon",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3"
+  },
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
